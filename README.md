@@ -50,7 +50,7 @@ the classification of the paper references the paper [Remote photoplethysmograph
 |[**Multi-Task Temporal Shift Attention Networks for On-Device Contactless Vitals Measurement**](https://arxiv.org/pdf/2006.03790) (**MTTS-CAN**)| NeurPIS 2020| [github](https://github.com/xliucs/MTTS-CAN) |
 |[**RhythmNet: End-to-End Heart Rate Estimation From Face via Spatial-Temporal Representation**](http://refhub.elsevier.com/S1746-8094(23)01041-8/sb47) (**RhythmNet**)| IEEE TIP 2020| [github](https://github.com/AnweshCR7/RhythmNet) |
 |[**Video-Based Remote Physiological Measurement via Cross-Verified Feature Disentangling**](http://refhub.elsevier.com/S1746-8094(23)01041-8/sb48) (**CVD**)| ECCV 2020 oral| [github](https://github.com/nxsEdson/CVD-Physiological-Measurement) |
-|[**Robust Remote Heart Rate Estimation from Face Utilizing Spatial-temporal Attention**](https://ieeexplore.ieee.org/document/8756554) | -| - |
+|[**Robust Remote Heart Rate Estimation from Face Utilizing Spatial-temporal Attention**](https://ieeexplore.ieee.org/document/8756554) |FG 2019| - |
 |[**SynRhythm: Learning a Deep Heart Rate Estimator from General to Specificn**](https://ieeexplore.ieee.org/document/8546321)(**SynRhythm**) | ICPR 2018| - |
 |[**EVM-CNN: Real-Time Contactless Heart Rate Estimation From Facial Video**](https://ieeexplore.ieee.org/abstract/document/8552438) (**EVM-CNN**)| IEEE TMM 2018| - |
 |[**DeepPhys: Video-Based Physiological Measurement Using Convolutional Attention Networks**](https://openaccess.thecvf.com/content_ECCV_2018/papers/Weixuan_Chen_DeepPhys_Video-Based_Physiological_ECCV_2018_paper.pdf) (**DeepPhys**)| ECCV 2018| - |
@@ -61,9 +61,15 @@ the classification of the paper references the paper [Remote photoplethysmograph
 
 |  Title  |   Publication  |  Code   |
 |:--------|:--------:|:--------:|
-|[**Multi-Task Temporal Shift Attention Networks for On-Device Contactless Vitals Measurement**](https://arxiv.org/pdf/2006.03790) (**MTTS-CAN**)| NeurPIS 2020| [github](https://github.com/xliucs/MTTS-CAN) |
-|[**EVM-CNN: Real-Time Contactless Heart Rate Estimation From Facial Video**](https://ieeexplore.ieee.org/abstract/document/8552438) (**EVM-CNN**)| IEEE TMM 2018| - |
-|[**DeepPhys: Video-Based Physiological Measurement Using Convolutional Attention Networks**](https://openaccess.thecvf.com/content_ECCV_2018/papers/Weixuan_Chen_DeepPhys_Video-Based_Physiological_ECCV_2018_paper.pdf) (**DeepPhys**)| ECCV 2018| - |
-|[**Visual heart rate estimation with convolutional neural network**](https://cmp.felk.cvut.cz/~spetlrad/ecg-fitness/visual-heart-rate.pdf) (**HR-CNN**)| 2018| [github](https://github.com/radimspetlik/hr-cnn) |
+|[**Robust Heart Rate Estimation With Spatial–Temporal Attention Network From Facial Videos**](https://ieeexplore.ieee.org/document/9364289) | IEEE TCDS 2022| - |
+|[**ETA-rPPGNet: Effective Time-Domain Attention Network for Remote Heart Rate Measurement**](https://ieeexplore.ieee.org/abstract/document/9353569) (**ETA-rPPGNet**)| IEEE TIM 2021| - |
+|[**Siamese-rPPG network: remote photoplethysmography signal estimation from face videos**](https://dl.acm.org/doi/abs/10.1145/3341105.3373905) (**Siamese-rPPG**)| ACM SAC 2020| - |
+|[**A General Remote Photoplethysmography Estimator with Spatiotemporal Convolutional Network**](https://ieeexplore.ieee.org/document/9320234) | IEEE FG 2020| - |
+|[**AutoHR: A Strong End-to-End Baseline for Remote Heart Rate Measurement With Neural Searching**](https://ieeexplore.ieee.org/document/9133501) (**AutoHR**)| IEEE SPL 2020| - |
+|[**HeartTrack: Convolutional neural network for remote video-based heart rate monitoring**](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w19/Perepelkina_HeartTrack_Convolutional_Neural_Network_for_Remote_Video-Based_Heart_Rate_Monitoring_CVPRW_2020_paper.pdf) (**HeartTrack**)| CVPR 2020| - |
+|[**Remote Heart Rate Measurement from Highly Compressed Facial Videos: an End-to-end Deep Learning Solution with Video Enhancement**](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Remote_Heart_Rate_Measurement_From_Highly_Compressed_Facial_Videos_An_ICCV_2019_paper.pdf) (**rPPGNet**)| ICCV 2019| [github](https://github.com/ZitongYu/STVEN_rPPGNet) |
+|[**Remote Photoplethysmograph Signal Measurement from Facial Videos Using Spatio-Temporal Networks**](https://arxiv.org/abs/1905.02419) (**PhysNet**)| BMCV 2019| [github](https://github.com/ZitongYu/PhysNet) |
+|[**3D Convolutional Neural Networks for Remote Pulse Rate Measurement and Mapping from Facial Video**](https://www.mdpi.com/2076-3417/9/20/4364)(**rppg-3dcnn**) | Applied Science 2019| [github](https://github.com/frederic-bousefsaf/ippg-3dcnn) |
+
 
 
