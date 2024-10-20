@@ -47,7 +47,7 @@ the classification of the paper references the paper [Remote photoplethysmograph
 
 |  Title  |   Publication  |  Code   |
 |:--------|:--------:|:--------:|
-|[**Visual heart rate estimation with convolutional neural network**](https://www.sciencedirect.com/science/article/pii/S2096579620301121) (**NAS-HR**)| Virtual Reality & Intelligent Hardware 2021| - |
+|[**Visual heart rate estimation with convolutional neural network**](https://www.sciencedirect.com/science/article/pii/S2096579620301121) (**NAS-HR**)| Virtual Reality & Intelligent Hardware 2021| [github](https://github.com/LuPaoPao/NAS-HR) |
 |[**Multi-Task Temporal Shift Attention Networks for On-Device Contactless Vitals Measurement**](https://arxiv.org/pdf/2006.03790) (**MTTS-CAN**)| NeurPIS 2020| [github](https://github.com/xliucs/MTTS-CAN) |
 |[**RhythmNet: End-to-End Heart Rate Estimation From Face via Spatial-Temporal Representation**](http://refhub.elsevier.com/S1746-8094(23)01041-8/sb47) (**RhythmNet**)| IEEE TIP 2020| [github](https://github.com/AnweshCR7/RhythmNet) |
 |[**Video-Based Remote Physiological Measurement via Cross-Verified Feature Disentangling**](http://refhub.elsevier.com/S1746-8094(23)01041-8/sb48) (**CVD**)| ECCV 2020 oral| [github](https://github.com/nxsEdson/CVD-Physiological-Measurement) |
