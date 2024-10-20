@@ -11,6 +11,7 @@ This repository is a collection of awesome rPPG methods. I will update it regula
     - [Supervised Learning](#supervised-learning)
        - [2D CNN](#2d-cnn)
        - [3D CNN](#3d-cnn)
+  - [Acknowledgments](#acknowledgments)
 
 the classification of the paper references the paper [Remote photoplethysmography for heart rate measurement: A review](https://www.sciencedirect.com/science/article/abs/pii/S1746809423010418)
 
@@ -72,4 +73,6 @@ the classification of the paper references the paper [Remote photoplethysmograph
 |[**3D Convolutional Neural Networks for Remote Pulse Rate Measurement and Mapping from Facial Video**](https://www.mdpi.com/2076-3417/9/20/4364)(**rppg-3dcnn**) | Applied Science 2019| [github](https://github.com/frederic-bousefsaf/ippg-3dcnn) |
 
 
+## Acknowledgments
 
+- https://github.com/zx-pan/Awesome-rPPG
