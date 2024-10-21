@@ -1,4 +1,4 @@
-<img src="./src/Awesome-rPPG-Method-List.svg" alt="logo" height="300">
+<img src="./src/Awesome-rPPG-Method-List.svg" alt="logo" >
 
 # Awesome-rPPG-Method-List
 
