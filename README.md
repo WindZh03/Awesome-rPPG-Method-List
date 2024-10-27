@@ -1,5 +1,3 @@
-<img src="./src/Awesome-rPPG-Method-List.svg" alt="logo" >
-
 # Awesome-rPPG-Method-List
 
 This repository is a collection of awesome rPPG methods. I will update it regularly. If you have any suggestions or questions, please feel free to contact me. 
@@ -16,7 +14,8 @@ This repository is a collection of awesome rPPG methods. I will update it regula
        - [RNN](#rnn)
        - [GAN](#gan)
        - [Transformer](#transformer)
-       - [Benchmark](#benchmark)
+    - [Unsupervised Learning](#unsupervised-learning)
+    - [Benchmark](#benchmark)
   - [Acknowledgments](#acknowledgments)
 
 the classification of the paper references the paper [Remote photoplethysmography for heart rate measurement: A review](https://www.sciencedirect.com/science/article/abs/pii/S1746809423010418)
@@ -103,6 +102,22 @@ the classification of the paper references the paper [Remote photoplethysmograph
 |[**RADIANT: Better rPPG estimation using signal embeddings and Transformer**](https://openaccess.thecvf.com/content/WACV2023/papers/Gupta_RADIANT_Better_rPPG_Estimation_Using_Signal_Embeddings_and_Transformer_WACV_2023_paper.pdf) (**RADIANT**)| WACV 2023| [github](https://github.com/Deep-Intelligence-Lab/RADIANT)|
 |[**PhysFormer: Facial Video-based Physiological Measurement with Temporal Difference Transformer**](https://arxiv.org/pdf/2111.12082) (**PhysFormer**)| CVPR 2022| [github](https://github.com/ZitongYu/PhysFormer)|
 |[**Instantaneous Physiological Estimation Using Video Transformers**](https://link.springer.com/chapter/10.1007/978-3-031-14771-5_22) (**instantaneous_transformer**)| -| [github](https://github.com/revanurambareesh/instantaneous_transformer)|
+
+### Unsupervised Learning
+
+|  Title  |   Publication  |  Code   |
+|:--------|:--------:|:--------:|
+|[**rPPG-MAE: Self-supervised Pre-training with Masked Autoencoders for Remote Physiological Measurement**](https://arxiv.org/abs/2306.02301) (**rPPG-MAE**)| arXiv 2023 | [github](https://github.com/keke-nice/rPPG-MAE)|
+|[**Non-Contrastive Unsupervised Learning of Physiological Signals from Video**](https://openaccess.thecvf.com/content/CVPR2023/papers/Speth_Non-Contrastive_Unsupervised_Learning_of_Physiological_Signals_From_Video_CVPR_2023_paper.pdf) (**SiNC-rPPG**)| CVPR 2023 Highlight | [github](https://github.com/CVRL/SiNC-rPPG)|
+|[**SimPer: Simple Self-Supervised Learning of Periodic Targets**](https://arxiv.org/abs/2210.03115) (**SimPer**)| ICLR 2023 Oral | [github](https://github.com/yyzharry/simper)|
+|[**Facial Video-based Remote Physiological Measurement via Self-supervised Learning**](https://arxiv.org/abs/2210.15401) | IEEE TPAMI 2023 | [github](https://github.com/yuezijie/video-based-remote-physiological-measurement-via-self-supervised-learning)|
+|[**Contrast-Phys: Unsupervised Video-Based Remote Physiological Measurement via Spatiotemporal Contrast**](https://link.springer.com/chapter/10.1007/978-3-031-19775-8_29)(**Contrast-Phys**) | ECCV 2022 | [github](https://github.com/zhaodongsun/contrast-phys)|
+|[**Self-Supervised RGB-NIR Fusion Video Vision Transformer Framework for rPPG Estimation**](https://ieeexplore.ieee.org/abstract/document/9931758)| IEEE TIM 2022 | -|
+|[**Self-supervised Representation Learning Framework for Remote Physiological Measurement Using Spatiotemporal Augmentation Loss**](https://arxiv.org/abs/2107.07695)(**SLF-RPM**)| AAAI  2022 | [github](https://github.com/Dylan-H-Wang/SLF-RPM)|
+|[**The Way to my Heart is through Contrastive Learning: Remote Photoplethysmography from Unlabelled Video**](https://arxiv.org/abs/2111.09748)| ICCV  2021 | [github](https://github.com/ToyotaResearchInstitute/RemotePPG)|
+
+
+
 
 
 
