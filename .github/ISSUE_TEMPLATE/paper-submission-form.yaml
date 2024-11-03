@@ -1,0 +1,81 @@
+name: Paper Submission Form
+description: Use this form to submit a paper for this repository.
+title: "Paper Submission "
+labels: ["paper-submission"]
+assignees: ['qqizhao']
+body:
+  - type: input
+    id: paper-title
+    attributes:
+      label: Paper Title
+      description: Enter the title of your paper.
+      placeholder: "Your paper title here"
+    validations:
+      required: true
+
+  - type: input
+    id: publication-venue
+    attributes:
+      label: Publication
+      description: "Please specify where your paper is published."
+      placeholder: "arXiv 2024, etc."
+    validations:
+      required: true
+
+  - type: input
+    id: paper-link
+    attributes:
+      label: Paper Link
+      description: Provide an arXiv link or publication link for your paper.
+      placeholder: "http(s)://"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: main-category
+    attributes:
+      label: Main Method Category
+      description: Select the main method category of your paper.
+      options:
+        - Survey
+        - Traditional Methods
+        - Supervised Learning
+        - Unsupervised Learning
+        - Benchmark
+        - Dataset
+    validations:
+      required: true
+
+  - type: dropdown
+    id: supervised-learning-specifics
+    attributes:
+      label: Supervised Learning Specifics (Optional)
+      description: "If you select 'Training-Based', please select a more specific category. If you prefer not to specify, it's okay; we will classify it for you."
+      options:
+        - 2D CNN
+        - 3D CNN
+        - RNN
+        - GAN
+        - Transformer
+    validations:
+      required: false
+
+
+  - type: input
+    id: github-link
+    attributes:
+      label: Github Repository Link (Optional)
+      description: "If there is a github repository for your paper, please provide the link here."
+      placeholder: "https://github.com/qqizhao/Awesome-rPPG-Method-List"
+    validations:
+      required: true
+
+
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional Information (Optional)
+      description: "If there is anything else you'd like to add or specify about your submission, please do so here."
+      placeholder: "Any other details or context for your paper submission."
+    validations:
+      required: false
