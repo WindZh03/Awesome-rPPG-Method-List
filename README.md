@@ -1,8 +1,11 @@
 # Awesome-rPPG-Method-List
 
-This repository is a collection of awesome rPPG methods. I will update it regularly. If you have any suggestions or questions, please feel free to contact me. 
+This repository is a collection of awesome rPPG methods. I will update it gradually, if you have any suggestions or questions, please feel free to contact me. If you know any other methods, please create a issue or pull request. If you find this repository helpful, please give me a star.
 
 ## Table of Contents
+
+>The classification of the paper references the [paper](https://www.sciencedirect.com/science/article/abs/pii/S1746809423010418)
+
 - [Awesome-rPPG-Method-List](#Awesome-rPPG-Method-List)
   - [Table of Contents](#table-of-contents)
   - [Awesome Papers](#Awesome-Papers)
@@ -15,11 +18,10 @@ This repository is a collection of awesome rPPG methods. I will update it regula
        - [GAN](#gan)
        - [Transformer](#transformer)
     - [Unsupervised Learning](#unsupervised-learning)
+    - [Other Methods](#other-methods)
     - [Benchmark](#benchmark)
     - [Dataset](#dataset)
   - [Acknowledgments](#acknowledgments)
-
-the classification of the paper references the paper [Remote photoplethysmography for heart rate measurement: A review](https://www.sciencedirect.com/science/article/abs/pii/S1746809423010418)
 
 
 ## Awesome Papers
@@ -108,6 +110,7 @@ the classification of the paper references the paper [Remote photoplethysmograph
 
 |  Title  |   Publication  |  Code   |
 |:--------|:--------:|:--------:|
+|[**RS-rPPG: Robust Self-Supervised Learning for rPPG**](https://brosdocs.net/fg2024/013.pdf) (**RS-rPPG**)| IEEE FG 2024 | [github](https://github.com/marukosan93/RS-rPPG)|
 |[**rPPG-MAE: Self-supervised Pre-training with Masked Autoencoders for Remote Physiological Measurement**](https://arxiv.org/abs/2306.02301) (**rPPG-MAE**)| arXiv 2023 | [github](https://github.com/keke-nice/rPPG-MAE)|
 |[**Non-Contrastive Unsupervised Learning of Physiological Signals from Video**](https://openaccess.thecvf.com/content/CVPR2023/papers/Speth_Non-Contrastive_Unsupervised_Learning_of_Physiological_Signals_From_Video_CVPR_2023_paper.pdf) (**SiNC-rPPG**)| CVPR 2023 Highlight | [github](https://github.com/CVRL/SiNC-rPPG)|
 |[**SimPer: Simple Self-Supervised Learning of Periodic Targets**](https://arxiv.org/abs/2210.03115) (**SimPer**)| ICLR 2023 Oral | [github](https://github.com/yyzharry/simper)|
@@ -116,6 +119,15 @@ the classification of the paper references the paper [Remote photoplethysmograph
 |[**Self-Supervised RGB-NIR Fusion Video Vision Transformer Framework for rPPG Estimation**](https://ieeexplore.ieee.org/abstract/document/9931758)| IEEE TIM 2022 | -|
 |[**Self-supervised Representation Learning Framework for Remote Physiological Measurement Using Spatiotemporal Augmentation Loss**](https://arxiv.org/abs/2107.07695)(**SLF-RPM**)| AAAI  2022 | [github](https://github.com/Dylan-H-Wang/SLF-RPM)|
 |[**The Way to my Heart is through Contrastive Learning: Remote Photoplethysmography from Unlabelled Video**](https://arxiv.org/abs/2111.09748)| ICCV  2021 | [github](https://github.com/ToyotaResearchInstitute/RemotePPG)|
+
+
+### Other Methods
+
+|  Title  |   Publication  |  Code   |
+|:--------|:--------:|:--------:|
+|[**Continual Learning for Remote Physiological Measurement: Minimize Forgetting and Simplify Inference**](https://arxiv.org/abs/2407.13974) | ECCV 2024| [github](https://github.com/mayyoy/rppgdil) |
+|[**Bi-TTA: Bidirectional Test-Time Adapter for Remote Physiological Measurement**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01774.pdf)(**Bi-TTA**) | ECCV 2024| - |
+|[**Resolve Domain Conflicts for Generalizable Remote Physiological Measurement**](https://dl.acm.org/doi/10.1145/3581783.3612265) (**DOHA-rPPG**)| ACM MM 2023| [github](https://github.com/swy666/rppg-doha) |
 
 
 ### Benchmark

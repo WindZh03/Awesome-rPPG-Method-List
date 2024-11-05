@@ -18,7 +18,7 @@ body:
     attributes:
       label: Publication
       description: "Please specify where your paper is published."
-      placeholder: "arXiv 2024, etc."
+      placeholder: "arXiv 2024"
     validations:
       required: true
 
