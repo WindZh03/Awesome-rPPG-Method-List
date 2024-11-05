@@ -41,6 +41,7 @@ body:
         - Traditional Methods
         - Supervised Learning
         - Unsupervised Learning
+        - Other Methods
         - Benchmark
         - Dataset
     validations:
