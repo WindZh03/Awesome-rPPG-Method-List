@@ -92,6 +92,7 @@ This repository is a collection of awesome rPPG methods. I will update it gradua
 
 |  Title  |   Publication  |  Code   |
 |:--------|:--------:|:--------:|
+|[**Dual-bridging with Adversarial Noise Generation for Domain Adaptive rPPG Estimation**](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Dual-Bridging_With_Adversarial_Noise_Generation_for_Domain_Adaptive_rPPG_Estimation_CVPR_2023_paper.pdf) | CVPR 2023| -|
 |[**Dual-GAN: Joint BVP and Noise Modeling for Remote Physiological Measurement**](https://openaccess.thecvf.com/content/CVPR2021/papers/Lu_Dual-GAN_Joint_BVP_and_Noise_Modeling_for_Remote_Physiological_Measurement_CVPR_2021_paper.pdf) (**Dual-GAN**)| CVPR 2021| -|
 |[**PulseGAN: Learning to Generate Realistic Pulse Waveforms in Remote Photoplethysmography**](https://ieeexplore.ieee.org/document/9320513) (**PulseGAN**)| IEEE JBHI 2021| [github](https://github.com/miki998/PulseGAN)|
 |[**Deep-HR: Fast heart rate estimation from face video under realistic conditions**](https://www.sciencedirect.com/science/article/abs/pii/S0957417421009969) (**Deep-HR**)| Expert Systems with Applications 2021| [github](https://github.com/miki998/PulseGAN)|
