@@ -69,6 +69,7 @@ This repository is a collection of awesome rPPG methods. I will update it gradua
 
 |  Title  |   Publication  |  Code   |
 |:--------|:--------:|:--------:|
+|[**FactorizePhys: Matrix Factorization for Multidimensional Attention in Remote Physiological Sensing**](https://openreview.net/pdf?id=qrfp4eeZ47)(**FactorizePhys**) | NeurIPS 2024| [github](https://github.com/PhysiologicAILab/FactorizePhys) |
 |[**Augmentation of rPPG Benchmark Datasets: Learning to Remove and Embed rPPG Signals via Double Cycle Consistent Learning from Unpaired Facial Videos**](https://link.springer.com/chapter/10.1007/978-3-031-19787-1_21)(**RErPPGNet**) | ECCV 2022| [github](https://github.com/nthumplab/RErPPGNet) |
 |[**ETA-rPPGNet: Effective Time-Domain Attention Network for Remote Heart Rate Measurement**](https://ieeexplore.ieee.org/abstract/document/9353569) (**ETA-rPPGNet**)| IEEE TIM 2021| - |
 |[**Deep Super-Resolution Network for rPPG Information Recovery and Noncontact Heart Rate Estimation**](https://ieeexplore.ieee.org/document/9529062) | IEEE TIM 2021| - |
